@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**vigneshkumar28/vigneshkumar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently... final year student
 - 🌱 I’m currently learning ... advance AI, ML, Java, IoT
