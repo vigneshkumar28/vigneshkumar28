@@ -1,6 +1,9 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/hello.gif" alt="hello" /> </p>
+
+
 <!-- Greeting -->
 # Hey there! :wave::smiley:
+
 <!--Introduction -->
 I'm Vigneshkumar Radhakrishnan! I'm a **Final year college student, completed 200+ certification course during academics in IoT, Machine Learning, Artificial Intelligence, Data Science, Chat Bot creation and Certified by University of Washington, Stanford University, University of Michigan, University
 of California, Google, IBM.**, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
