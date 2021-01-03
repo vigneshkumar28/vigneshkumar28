@@ -6,6 +6,9 @@ of California, Google, IBM.**, looking to solve **real-world problems**:earth_as
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-VigneshkumarR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshkumar-r-870179179)
+[![Gmail](https://img.shields.io/badge/-vigneshkumarponnamaravathy-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vigneshkumarponnamaravathy@gmail.com)
 
 - 🌱 I’m currently learning advance AI, ML, Java, IoT
 - 👯 I’m looking to collaborate on improving knowledge and skills
@@ -15,7 +18,6 @@ of California, Google, IBM.**, looking to solve **real-world problems**:earth_as
 - 😄 Strength: Active learner and good in time management
 - ⚡ Weakness: Mien
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-VigneshkumarR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshkumar-r-870179179)
-[![Gmail](https://img.shields.io/badge/-vigneshkumarponnamaravathy-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vigneshkumarponnamaravathy@gmail.com)
-
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=vigneshkumar28&style=flat)
+[![Github](https://img.shields.io/badge/-vigneshkumar28-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vigneshkumar28)
