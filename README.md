@@ -24,3 +24,7 @@ of California, Google, IBM.**, looking to solve **real-world problems**:earth_as
 
 <!-- gif Image -->
 <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+
+
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
