@@ -33,7 +33,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Spending more time in Coursera, Udemy,...
 * Adapting the minimalism life style
 
-### 🌱 EXTRA Certification COURSES::
+### 🌱 EXTRA Certification COURSES:
 *	Achieved Certification on Council of Europe Level A2 offered by Cambridge University, London.
 *	Completed Certification course entitled as Java Programming certified by Duke University. North Carolina.
 *	Completed Certification course entitled as Object Oriented Programming certified by UCSanDiego, California.
@@ -42,6 +42,13 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 *	Completed Certification course entitled as Hello Bot: Introduction to RPA certified by Automation Anywhere team.
 *	Completed Professional certification course entitled as IBM Certified Data Scientist [ Credential id: S4TWWGBF9F5H]
 
+### 🌱 PROJECTS:
+1)	**Project Name: IoT based intelligent Gas Leakage Detection and Leak Point Location system**
+*	**Tools used:** Arduino IDE, IBM Watson IoT Platform, Node-Red, IBM IoT sensor.
+*	**Description:** In hardware, the components are MQ2 sensor, Arduino Uno, ESP8266, GSM module. Created the IoT devices in cloud such as WIFI Module, Microcontroller and other circuit elements. Connected the devices via API and created UI for real-time monitoring. Used to increase the security and safety measures.
+2)	**Project Name: Face currency identification **
+*	**Tools used:** MATLAB and Watson AutoAI.
+*	**Description:** Created a model and trained with set of original and duplicate images of currency using image processing. Comparing the input image with original image’s threshold value. If it matches, print the input image is original else print input image is duplicate. Used to detect the duplicate currency during monetization.
 
 ### 🌱 RESEARCH PAPER PUBLICATION:
 Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
