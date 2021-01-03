@@ -29,6 +29,9 @@ of California, Google, IBM.**, looking to solve **real-world problems**:earth_as
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. )
+* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Spending more time in Coursera, Udemy,...
+* Adapting the minimalism life style
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
@@ -71,4 +74,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 </p>
+
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
