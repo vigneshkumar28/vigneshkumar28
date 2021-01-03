@@ -97,4 +97,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 </p>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center"> Thanks for Visiting! Have a Nice Day:innocent:</h4>
