@@ -15,3 +15,7 @@ of California, Google, IBM.**, looking to solve **real-world problems**:earth_as
 - 😄 Strength: Active learner and good in time management
 - ⚡ Weakness: Mien
 
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-vigneshkumar-r-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshkumar-r-870179179)
+[![Gmail](https://img.shields.io/badge/-vigneshkumarponnamaravathy-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vigneshkumarponnamaravathy@gmail.com)
+
