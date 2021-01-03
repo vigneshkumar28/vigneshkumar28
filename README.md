@@ -33,6 +33,16 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Spending more time in Coursera, Udemy,...
 * Adapting the minimalism life style
 
+### 🌱 EXTRA Certification COURSES::
+*	Achieved Certification on Council of Europe Level A2 offered by Cambridge University, London.
+*	Completed Certification course entitled as Java Programming certified by Duke University. North Carolina.
+*	Completed Certification course entitled as Object Oriented Programming certified by UCSanDiego, California.
+*	Completed Certification course entitled as Machine Learning certified by Stanford University, California.
+*	Completed Certification course entitled as Diploma in Desktop Publishing (DDTP) by CSC, Ponnamaravathi.
+*	Completed Certification course entitled as Hello Bot: Introduction to RPA certified by Automation Anywhere team.
+*	Completed Professional certification course entitled as IBM Certified Data Scientist [ Credential id: S4TWWGBF9F5H]
+
+
 ### 🌱 RESEARCH PAPER PUBLICATION:
 Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
 
