@@ -33,6 +33,10 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Spending more time in Coursera, Udemy,...
 * Adapting the minimalism life style
 
+### 🌱 RESEARCH PAPER PUBLICATION:
+Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
+
+
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vigneshkumar28">
