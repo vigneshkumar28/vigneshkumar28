@@ -8,6 +8,6 @@
 - 🤔 I’m looking for jobs with any roles and any domains
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/vigneshkumar-r-870179179)
-- 😄 Pronouns: Active learner and good in time management
-- ⚡ Fun fact: Trust
+- 😄 Strength: Active learner and good in time management
+- ⚡ Weakness: Mien
 
