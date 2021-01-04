@@ -25,7 +25,7 @@ of California, Google, IBM.**, looking to solve **real-world problems**:earth_as
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=vigneshkumar28&style=flat)
-[![Github](https://img.shields.io/badge/-vigneshkumar28-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vigneshkumar28)
+[![GitStats](https://img.shields.io/badge/-vigneshkumar28-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vigneshkumar28)
 
 <!-- gif Image -->
 <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
@@ -100,6 +100,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 </p>
-
 
 <h4 align="center"> Thanks for Visiting! Have a Nice Day:innocent:</h4>
