@@ -13,7 +13,7 @@ of California, Google, IBM.**, looking to solve **real-world problems**:earth_as
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-VigneshkumarR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshkumar-r-870179179)
 [![Gmail](https://img.shields.io/badge/-vigneshkumarponnamaravathy-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vigneshkumarponnamaravathy@gmail.com)
-[![Salesforce Trailhead profile](https://img.shields.io/badge/-VIGNESHKUMAR_R-white?style=flat&logo=Salesforce&logoColor=blue)](https://trailblazer.me/id/vigneshkumar) 
+[![Salesforce Trailhead profile](https://img.shields.io/badge/-Salesforce_Trailhead_profile-white?style=flat&logo=Salesforce&logoColor=blue)](https://trailblazer.me/id/vigneshkumar) 
 
 - 🌱 I’m currently learning advance AI, ML, Java, IoT
 - 👯 I’m looking to collaborate on improving knowledge and skills
