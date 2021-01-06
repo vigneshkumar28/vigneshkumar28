@@ -35,7 +35,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
 * Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. )
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Spending more time in Coursera, Udemy,...
+* Spending more time in Coursera, Udemy, developing simple project,...
 * Adapting the minimalism life style
 
 ### 🌱 EXTRA Certification COURSES:
