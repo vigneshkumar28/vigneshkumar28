@@ -15,7 +15,7 @@ of California, Google, IBM.**, looking to solve **real-world problems**:earth_as
 [![Gmail](https://img.shields.io/badge/-vigneshkumarponnamaravathy-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vigneshkumarponnamaravathy@gmail.com)
 [![Salesforce Trailhead profile](https://img.shields.io/badge/-Salesforce_Trailhead_profile-white?style=flat&logo=Salesforce&logoColor=blue)](https://trailblazer.me/id/vigneshkumar) 
 
-- 🌱 I’m currently learning advance AI, ML, Java, IoT
+- 🌱 I’m currently learning advance AI, ML, Java, IoT and Full Stack Development
 - 👯 I’m looking to collaborate on improving knowledge and skills
 - 🤔 I’m looking for jobs with any roles and any domains
 - 💬 Ask me about Anything
