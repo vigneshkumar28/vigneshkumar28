@@ -61,11 +61,11 @@ Published research paper in International Research Journal entitled as **IOT BAS
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vigneshkumar28">
-    <img width="460" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
-         src="https://github-readme-stats.vercel.app/api?username=vigneshkumar28&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
+  <!--  <img width="460" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
+         src="https://github-readme-stats.vercel.app/api?username=vigneshkumar28&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /> -->
+    <img width="30%" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkumar28&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+<!-- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
