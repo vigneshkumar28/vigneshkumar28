@@ -61,7 +61,7 @@ Published research paper in International Research Journal entitled as **IOT BAS
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vigneshkumar28">
-    <img width="460" height="auto" align="right" alt="Vigneshkumar's github stats" 
+    <img width="460" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
          src="https://github-readme-stats.vercel.app/api?username=vigneshkumar28&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkumar28&layout=compact" />
