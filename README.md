@@ -50,7 +50,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 1)	**Project Name: IoT based intelligent Gas Leakage Detection and Leak Point Location system**
 *	**Tools used:** Arduino IDE, IBM Watson IoT Platform, Node-Red, IBM IoT sensor.
 *	**Description:** In hardware, the components are MQ2 sensor, Arduino Uno, ESP8266, GSM module. Created the IoT devices in cloud such as WIFI Module, Microcontroller and other circuit elements. Connected the devices via API and created UI for real-time monitoring. Used to increase the security and safety measures.
-2)	**Project Name: Fake currency identification using MATLAB and Image processing techniques **
+2)	**Project Name: Fake currency identification using MATLAB and Image processing techniques**
 *	**Tools used:** MATLAB and Watson AutoAI.
 *	**Description:** Created a model and trained with set of original and duplicate images of currency using image processing. Comparing the input image with original image’s threshold value. If it matches, print the input image is original else print input image is duplicate. Used to detect the duplicate currency during monetization.
 
@@ -63,7 +63,7 @@ Published research paper in International Research Journal entitled as **IOT BAS
   <a href="https://gitstats.me/vigneshkumar28">
     <img width="460" height="auto" align="right" alt="Vigneshkumar's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=vigneshkumar28&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Vigneshkumar's github stats" 
+   <!-- <img width="30%" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkumar28&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
