@@ -24,7 +24,7 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=vigneshkumar28&style=flat)
-[![GitStats](https://img.shields.io/badge/-vigneshkumar28-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vigneshkumar28)
+[![GitStats](https://img.shields.io/badge/-vigneshkumar28_Gitstats-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vigneshkumar28)
 
 <!-- gif Image -->
 <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
