@@ -48,6 +48,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 *	Completed Certification course entitled as Hello Bot: Introduction to RPA certified by Automation Anywhere team.
 *	Completed Professional certification course entitled as IBM Certified Data Scientist [ Credential id: S4TWWGBF9F5H]
 
+
 ### 🌱 PROJECTS:
 1)	**Project Name: IoT based intelligent Gas Leakage Detection and Leak Point Location system**
 *	**Tools used:** Arduino IDE, IBM Watson IoT Platform, Node-Red, IBM IoT sensor.
