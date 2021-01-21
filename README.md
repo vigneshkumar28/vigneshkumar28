@@ -24,6 +24,7 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 - 😄 Strength: Active learner and good in time management
 - ⚡ Weakness: Mien
 
+
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=vigneshkumar28&style=flat)
 [![GitStats](https://img.shields.io/badge/-vigneshkumar28_Gitstats-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vigneshkumar28)
