@@ -18,7 +18,7 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 
 **My Coding Profiles :**
 
-✔ HackerRank : https://www.hackerrank.com/VIGNESHKUMAR_R
+✔ HackerRank (12,000+ points) : https://www.hackerrank.com/VIGNESHKUMAR_R
 
 ✔ GeeksForGeeks ( GFG ) : https://auth.geeksforgeeks.org/user/vigneshkumarponnamaravathy/profile
 
