@@ -136,4 +136,10 @@ Published research paper in International Research Journal entitled as **IOT BAS
 </p>
 
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="vigneshkumar-r-870179179"><a class="LI-simple-link" href='https://in.linkedin.com/in/vigneshkumar-r-870179179?trk=profile-badge'>VIGNESHKUMAR RADHAKRISHNAN</a></div>
+
+
+
+
 <h4 align="center"> Thanks for Visiting! Have a Nice Day:innocent:</h4>
