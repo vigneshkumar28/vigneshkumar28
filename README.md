@@ -4,7 +4,7 @@
 
 B.E ECE👨‍🎓- IoT Developer🌟- Data science🌟- IBM Certified Data scientist🌟- Machine Learning,AI,C,JAVA🌟- Full Stack Developer💻- Fast Learner☀️🥇🏆- Developer Program Member at GitHub - Looking for job🙋‍♂️
 
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p align="center"> <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/hello.gif" alt="hello" /> </p>
 
 <!-- Greeting -->
@@ -113,7 +113,7 @@ Published research paper in International Research Journal entitled as **IOT BAS
 <code><a href = "https://jquery.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a></code> 
 <br/>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
