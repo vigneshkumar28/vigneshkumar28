@@ -113,6 +113,8 @@ Published research paper in International Research Journal entitled as **IOT BAS
 <code><a href = "https://jquery.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a></code> 
 <br/>
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
 <code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
@@ -136,7 +138,7 @@ Published research paper in International Research Journal entitled as **IOT BAS
 </p>
 
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="vigneshkumar-r-870179179"><a class="LI-simple-link" href='https://in.linkedin.com/in/vigneshkumar-r-870179179?trk=profile-badge'>VIGNESHKUMAR RADHAKRISHNAN</a></div>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="vigneshkumar-r-870179179"><a class="LI-simple-link" href='https://in.linkedin.com/in/vigneshkumar-r-870179179?trk=profile-badge'>VIGNESHKUMAR RADHAKRISHNAN</a></div>
