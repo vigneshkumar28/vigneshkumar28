@@ -10,7 +10,6 @@ B.E ECE👨‍🎓- IoT Developer🌟- Data science🌟- IBM Certified Data scie
 # About me :wave::smiley:
 
 
-
 <!--Introduction -->
 I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed 200+ certification courses in IoT, Machine Learning, Artificial Intelligence, Data Science, Chat Bot creation and Certified by University of Washington, Stanford University, University of Michigan, University of California, Google, IBM.**, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 
