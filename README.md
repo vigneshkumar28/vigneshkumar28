@@ -11,13 +11,13 @@ B.E ECE👨‍🎓- IoT Developer🌟- Data science🌟- IBM Certified Data scie
 <!--Introduction -->
 I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed 200+ certification courses in IoT, Machine Learning, Artificial Intelligence, Data Science, Chat Bot creation and Certified by University of Washington, Stanford University, University of Michigan, University of California, Google, IBM.**, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 
-**My Coding Profiles :**
+## 🌱 **My Coding Profiles :**
 
 ✔ HackerRank (12,000+ points) : https://www.hackerrank.com/VIGNESHKUMAR_R
 
 ✔ GeeksForGeeks ( GFG ) : https://auth.geeksforgeeks.org/user/vigneshkumarponnamaravathy/profile
 
-**My Other Profiles:**
+## 🌱 **My Other Profiles:**
 
 ⚡Feel free to contact me :  vigneshkumarponnamaravathy@gmail.com (email id)📩📧
 
@@ -27,10 +27,6 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 
 ⚡Coursera profile👨‍🎓: https://www.coursera.org/user/95f5d92fc6da1da4e691f6897b21e7a2
 
-## 🌱 Personal website
-<br><br>
- https://vigneshkumar28.github.io/vigneshkumar.github.io/#/
-<br><br>
 
 <br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <!-- Your badges -->
@@ -126,10 +122,9 @@ Published research paper in International Research Journal entitled as **IOT BAS
 </p>
 
 ## 🌱 Personal website
-<br><br>
+<br>
 ⚡ https://vigneshkumar28.github.io/vigneshkumar.github.io/#/    (👈👈👈Frequently upadting (👈👈👈Read more about me)
-
-<br><br>
+<br>(or)<br>
 ⚡ https://vigneshkumar-radhakrishnan.000webhostapp.com/
 <br>(or)<br>
 ⚡ http://vigneshkumarradhakrishnan.unaux.com/
