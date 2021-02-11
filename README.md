@@ -74,6 +74,9 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 2)	**Project Name: Fake currency identification using MATLAB and Image processing techniques**
 *	**Tools used:** MATLAB and Watson AutoAI.
 *	**Description:** Created a model and trained with set of original and duplicate images of currency using image processing. Comparing the input image with original image’s threshold value. If it matches, print the input image is original else print input image is duplicate. Used to detect the duplicate currency during monetization.
+3)	**Project Name: Future Rate of Bitcoin Prediciton using Machine Learning Model**
+*	**Tools used:** Jupter notebook and anaconda environment
+*	**Description:** Getting the data from authorized website, Pre process the data depends on the function, applied the processed dataset into the functions and plot the Predicted graph.
 
 ### 🌱 RESEARCH PAPER PUBLICATION:
 Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
