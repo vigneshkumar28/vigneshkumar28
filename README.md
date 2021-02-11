@@ -79,13 +79,37 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
 
 ### 🌱 INTERNSHIPS:
-1)	**Role: Developer Program Member**
+**1)	Role: Developer Program Member**
 *	**Company: **Github, Virtual
 *	**Durations: **Jan 2021 - Present<br>
 ✔Pro in GitHub<br>
 ✔Arctic Code Vault Contributoring techniques<br>
 
-2)	**Role: IoT developer**
+**2)	Role: Campus Ambassador**
+*	**Company: **Smart Knower
+*	**Durations: **Jan 2020 - Present<br>
+Arranging Training and internship for students like development programs in both Technical training and Soft skill training.<br>
+Domains like<br>
+✔ Artificial Intelligence ( AI ),<br>
+✔ Machine Learning ( ML ),<br>
+✔ Internet of Things ( IoT ),<br>
+✔ Web development,<br>
+✔ BI<br>
+✔ Data science<br>
+
+**3)	Role: Software Engineer Trainee**
+*	**Company: **Uddalaka Digitech Pvt Ltd
+*	**Durations: **Jun 2020 - Sep 2020<br>
+Self Learning and Worked in<br>
+✔ Microsoft Azure<br>
+✔ Studio Azure ML<br>
+✔ HTML, CSS, JavaScript<br><br>
+✔ PHP<br>
+✔ Cpanel<br>
+✔ Hosting website<br>
+✔ Windows App Studio<br>
+
+**4)	Role: IoT developer**
 *	**Company: ** SmartInternz
 *	**Durations: ** Apr 2020 - Jun 2020<br>
 Worked in<br>
@@ -99,8 +123,6 @@ Worked in<br>
 ✔ Database ( IBM DB2 with Read and Write SQL )<br>
 ✔ Python<br>
 ✔ json files accessing<br>
-
-
 
 ### 🌱 Dreams:
 * Getting good job with more knowledge gaining opportunities.
