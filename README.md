@@ -28,6 +28,7 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 [![Linkedin](https://img.shields.io/badge/-VigneshkumarR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshkumar-r-870179179)
 [![Gmail](https://img.shields.io/badge/-vigneshkumarponnamaravathy-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vigneshkumarponnamaravathy@gmail.com)
 [![Salesforce Trailhead profile](https://img.shields.io/badge/-Salesforce_Trailhead_profile-white?style=flat&logo=Salesforce&logoColor=blue)](https://trailblazer.me/id/vigneshkumar) 
+
 - 🌱 I’m currently learning advance AI, ML, Java, IoT and Full Stack Development
 - 👯 I’m looking to collaborate on improving knowledge and skills
 - 🤔 I’m looking for jobs with any roles and any domains
@@ -35,17 +36,20 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/vigneshkumar-r-870179179)
 - 😄 Strength: Active learner and good in time management
 - ⚡ Weakness: Mien
+
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=vigneshkumar28&style=flat)
 [![GitStats](https://img.shields.io/badge/-vigneshkumar28_Gitstats-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vigneshkumar28)
 <!-- gif Image -->
 <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 * Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. )
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Spending more time in Coursera, Udemy, developing simple project,...
 * Adapting the minimalism life style
+
 ### 🌱 EXTRA Certification COURSES:
 *	Achieved Certification on Council of Europe Level A2 offered by Cambridge University, London.
 *	Completed Certification course entitled as Java Programming certified by Duke University. North Carolina.
@@ -54,6 +58,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 *	Completed Certification course entitled as Diploma in Desktop Publishing (DDTP) by CSC, Ponnamaravathi.
 *	Completed Certification course entitled as Hello Bot: Introduction to RPA certified by Automation Anywhere team.
 *	Completed Professional certification course entitled as IBM Certified Data Scientist [ Credential id: S4TWWGBF9F5H]
+
 ### 🌱 PROJECTS:
 1)	**Project Name: IoT based intelligent Gas Leakage Detection and Leak Point Location system**
 *	**Tools used:** Arduino IDE, IBM Watson IoT Platform, Node-Red, IBM IoT sensor.
@@ -61,8 +66,10 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 2)	**Project Name: Fake currency identification using MATLAB and Image processing techniques**
 *	**Tools used:** MATLAB and Watson AutoAI.
 *	**Description:** Created a model and trained with set of original and duplicate images of currency using image processing. Comparing the input image with original image’s threshold value. If it matches, print the input image is original else print input image is duplicate. Used to detect the duplicate currency during monetization.
+
 ### 🌱 RESEARCH PAPER PUBLICATION:
 Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
+
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vigneshkumar28">
