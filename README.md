@@ -27,8 +27,9 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 
 ⚡Coursera profile👨‍🎓: https://www.coursera.org/user/95f5d92fc6da1da4e691f6897b21e7a2
 
+## 🌱 Personal website
 <br><br>
-⚡**Portfolio :** https://vigneshkumar28.github.io/vigneshkumar.github.io/#/
+ https://vigneshkumar28.github.io/vigneshkumar.github.io/#/
 <br><br>
 
 <br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
@@ -58,7 +59,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Spending more time in Coursera, Udemy, developing simple project,...
 * Adapting the minimalism life style
 
-### 🌱 EXTRA Certification COURSES:
+### 🌱 Extra Certification Courses:
 *	Achieved Certification on Council of Europe Level A2 offered by Cambridge University, London.
 *	Completed Certification course entitled as Java Programming certified by Duke University. North Carolina.
 *	Completed Certification course entitled as Object Oriented Programming certified by UCSanDiego, California.
@@ -81,7 +82,12 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 ### 🌱 RESEARCH PAPER PUBLICATION:
 Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 🌱 Dreams:
+* Getting good job with more knowledge gaining opportunities.
+* Sharing knowledge with others. 
+* Helping the people who have struggling for living.
+
+ ### 🌱 Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vigneshkumar28">
     <img width="460" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
@@ -117,10 +123,16 @@ Published research paper in International Research Journal entitled as **IOT BAS
 <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
 <br/>
-</p><br><br>
-⚡Portfolio : https://vigneshkumar-radhakrishnan.000webhostapp.com/
+</p>
+
+## 🌱 Personal website
+<br><br>
+⚡ https://vigneshkumar28.github.io/vigneshkumar.github.io/#/    (👈👈👈Frequently upadting (👈👈👈Read more about me)
+
+<br><br>
+⚡ https://vigneshkumar-radhakrishnan.000webhostapp.com/
 <br>(or)<br>
-⚡Portfolio : http://vigneshkumarradhakrishnan.unaux.com/
+⚡ http://vigneshkumarradhakrishnan.unaux.com/
 <br>
 
 
