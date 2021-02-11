@@ -1,11 +1,16 @@
 <!--HeadLines -->
+
 # HeadLine
+
 B.E ECE👨‍🎓- IoT Developer🌟- Data science🌟- IBM Certified Data scientist🌟- Machine Learning,AI,C,JAVA🌟- Full Stack Developer💻- Fast Learner☀️🥇🏆- Developer Program Member at GitHub - Looking for job🙋‍♂️
 <p align="center"> <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/hello.gif" alt="hello" /> </p>
+
 <!-- Greeting -->
 # About me :wave::smiley:
+
 <!--Introduction -->
 I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed 200+ certification courses in IoT, Machine Learning, Artificial Intelligence, Data Science, Chat Bot creation and Certified by University of Washington, Stanford University, University of Michigan, University of California, Google, IBM.**, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+
 **My Coding Profiles :**
 ✔ HackerRank (12,000+ points) : https://www.hackerrank.com/VIGNESHKUMAR_R
 
@@ -21,7 +26,7 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 ⚡Coursera profile👨‍🎓: https://www.coursera.org/user/95f5d92fc6da1da4e691f6897b21e7a2
 
 <br><br>
-**⚡Portfolio : https://vigneshkumar28.github.io/vigneshkumar.github.io/#/ **
+**⚡Portfolio : ** https://vigneshkumar28.github.io/vigneshkumar.github.io/#/
 
 <br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <!-- Your badges -->
