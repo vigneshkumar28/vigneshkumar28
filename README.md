@@ -183,7 +183,7 @@ Worked in<br>
 <br>
 
 ## Got number 1 in google search (From the search result of 20,000+ , I'm the number ONE(1)🤩🤩 out of 20,000+🤩🤩) 
-Type " vigneshkumar radhakrishnan " (without quotes) in google and **get my profile in first link**
+Type " **vigneshkumar radhakrishnan** " (without quotes) in google and **get my profile in first link**
 <br>
 <p align="center"> <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/google%20search.PNG" alt="google search" /> </p>
 
