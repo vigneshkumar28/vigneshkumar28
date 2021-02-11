@@ -48,14 +48,14 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 <!-- gif Image -->
 <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
-### 🌱 Challenges that I’m currently challenging myself:
+## 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 * Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. )
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Spending more time in Coursera, Udemy, developing simple project,...
 * Adapting the minimalism life style
 
-### 🌱 Extra Certification Courses:
+## 🌱 Extra Certification Courses:
 *	Achieved Certification on Council of Europe Level A2 offered by Cambridge University, London.
 *	Completed Certification course entitled as Java Programming certified by Duke University. North Carolina.
 *	Completed Certification course entitled as Object Oriented Programming certified by UCSanDiego, California.
@@ -64,7 +64,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 *	Completed Certification course entitled as Hello Bot: Introduction to RPA certified by Automation Anywhere team.
 *	Completed Professional certification course entitled as IBM Certified Data Scientist [ Credential id: S4TWWGBF9F5H]
 
-### 🌱 PROJECTS:
+## 🌱 PROJECTS:
 1)	**Project Name: IoT based intelligent Gas Leakage Detection and Leak Point Location system**
 *	**Tools used:** Arduino IDE, IBM Watson IoT Platform, Node-Red, IBM IoT sensor.
 *	**Description:** In hardware, the components are MQ2 sensor, Arduino Uno, ESP8266, GSM module. Created the IoT devices in cloud such as WIFI Module, Microcontroller and other circuit elements. Connected the devices via API and created UI for real-time monitoring. Used to increase the security and safety measures.
@@ -75,19 +75,19 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 *	**Tools used:** Jupter notebook and anaconda environment
 *	**Description:** Getting the data from authorized website, Pre process the data depends on the function, applied the processed dataset into the functions and plot the Predicted graph.
 
-### 🌱 RESEARCH PAPER PUBLICATION:
+## 🌱 RESEARCH PAPER PUBLICATION:
 Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
 
-### 🌱 INTERNSHIPS:
+## 🌱 INTERNSHIPS:
 **1)	Role: Developer Program Member**
-*	**Company: **Github, Virtual
-*	**Durations: **Jan 2021 - Present<br>
+*	**Company:** Github, Virtual
+*	**Durations:** Jan 2021 - Present<br>
 ✔Pro in GitHub<br>
 ✔Arctic Code Vault Contributoring techniques<br>
 
 **2)	Role: Campus Ambassador**
-*	**Company: **Smart Knower
-*	**Durations: **Jan 2020 - Present<br>
+*	**Company:** Smart Knower
+*	**Durations:** Jan 2020 - Present<br>
 Arranging Training and internship for students like development programs in both Technical training and Soft skill training.<br>
 Domains like<br>
 ✔ Artificial Intelligence ( AI ),<br>
@@ -98,20 +98,20 @@ Domains like<br>
 ✔ Data science<br>
 
 **3)	Role: Software Engineer Trainee**
-*	**Company: **Uddalaka Digitech Pvt Ltd
-*	**Durations: **Jun 2020 - Sep 2020<br>
+*	**Company:** Uddalaka Digitech Pvt Ltd
+*	**Durations:** Jun 2020 - Sep 2020<br>
 Self Learning and Worked in<br>
 ✔ Microsoft Azure<br>
 ✔ Studio Azure ML<br>
-✔ HTML, CSS, JavaScript<br><br>
+✔ HTML, CSS, JavaScript<br>
 ✔ PHP<br>
 ✔ Cpanel<br>
 ✔ Hosting website<br>
 ✔ Windows App Studio<br>
 
 **4)	Role: IoT developer**
-*	**Company: ** SmartInternz
-*	**Durations: ** Apr 2020 - Jun 2020<br>
+*	**Company:** SmartInternz
+*	**Durations:** Apr 2020 - Jun 2020<br>
 Worked in<br>
 ✔ IBM Cloud<br>
 ✔ Watson Platform<br>
@@ -124,12 +124,12 @@ Worked in<br>
 ✔ Python<br>
 ✔ json files accessing<br>
 
-### 🌱 Dreams:
+## 🌱 Dreams:
 * Getting good job with more knowledge gaining opportunities.
 * Sharing knowledge with others. 
 * Helping the people who have struggling for living.
 
- ### 🌱 Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ ## 🌱 Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vigneshkumar28">
     <img width="460" height="auto" align="right" alt="Vigneshkumar's Gitstats" 
@@ -167,7 +167,7 @@ Worked in<br>
 <br/>
 </p>
 
-## 🌱 Personal website
+# 🌱 Personal website
 <br>
 ⚡ https://vigneshkumar28.github.io/vigneshkumar.github.io/#/    (👈👈👈Frequently upadting (👈👈👈Read more about me)
 <br>(or)<br>
