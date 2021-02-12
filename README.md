@@ -124,6 +124,9 @@ Worked in<br>
 ✔ Python<br>
 ✔ json files accessing<br>
 
+# (Completed more internship. Waiting for full time job)
+
+
 ## 🌱 Dreams:
 * Getting good job with more knowledge gaining opportunities.
 * Sharing knowledge with others. 
