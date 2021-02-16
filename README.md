@@ -132,6 +132,7 @@ Worked in<br>
 * Sharing knowledge with others. 
 * Helping the people who have struggling for living.
 
+
  ## 🌱 Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vigneshkumar28">
