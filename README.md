@@ -30,7 +30,7 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 
 <br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-VigneshkumarR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshkumar-r-870179179)
+[![Linkedin](https://img.shields.io/badge/-VigneshkumarR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshkumar-r)
 [![Gmail](https://img.shields.io/badge/-vigneshkumarponnamaravathy-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vigneshkumarponnamaravathy@gmail.com)
 [![Salesforce Trailhead profile](https://img.shields.io/badge/-Salesforce_Trailhead_profile-white?style=flat&logo=Salesforce&logoColor=blue)](https://trailblazer.me/id/vigneshkumar) 
 
