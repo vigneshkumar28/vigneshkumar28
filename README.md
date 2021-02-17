@@ -175,7 +175,7 @@ Worked in<br>
 
 # 🌱 Personal website
 <br>
-⚡ # https://vigneshkumar28.github.io/vigneshkumar.github.io/#/    (👈👈👈Frequently upadting (👈👈👈Read more about me)
+# ⚡  https://vigneshkumar28.github.io/vigneshkumar.github.io/#/    (👈👈👈Frequently upadting (👈👈👈Read more about me)
 <br>(or)<br>
 ⚡ https://vigneshkumar-radhakrishnan.000webhostapp.com/
 <br>(or)<br>
