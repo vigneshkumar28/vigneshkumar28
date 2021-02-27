@@ -124,7 +124,7 @@ Worked in<br>
 ✔ Python<br>
 ✔ json files accessing<br>
 
-# (Completed more internship. Waiting for full time job)
+# (Waiting for full time job)
 
 
 ## 🌱 Dreams:
