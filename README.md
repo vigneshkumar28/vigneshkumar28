@@ -76,7 +76,8 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 *	**Description:** Getting the data from authorized website, Pre process the data depends on the function, applied the processed dataset into the functions and plot the Predicted graph.
 
 ## 🌱 RESEARCH PAPER PUBLICATION:
-Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
+1) Published research paper in International Research Journal entitled as **IOT BASED INTELLIGENT GAS LEAKPOINT DETECTING AND LOCATING SYSTEM**, journal named as International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), Volume 2, Issue 5, May 2020. **[Paper ID: IRJMETS40561]**
+2) Published a paper in International Research Journal entitled as **Future Price of Bit Coin Prediction Using Machine Learning Model** in International Journal of All Research Education and Scientific Methods (IJARESM) IJARESM – Volume: 9, Issue 2 | Feb 2021; ISSN: 2455-6211; **Impact Factor: 7.429**
 
 ## 🌱 INTERNSHIPS:
 **1)	Role: Developer Program Member**
