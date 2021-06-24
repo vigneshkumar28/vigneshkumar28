@@ -125,9 +125,6 @@ Worked in<br>
 ✔ Python<br>
 ✔ json files accessing<br>
 
-# (Waiting for full time job)
-
-
 ## 🌱 Dreams:
 * Getting good job with more knowledge gaining opportunities.
 * Sharing knowledge with others. 
@@ -199,4 +196,4 @@ Type " **vigneshkumar radhakrishnan** " (without quotes) in google and **get my 
 
 
 
-<h1 align="right"> Last update : May 7, 2021 </h1>
+<h1 align="right"> Last update : June 24, 2021 </h1>
