@@ -2,7 +2,7 @@
 
 # HeadLine
 
-B.E ECE👨‍🎓- IoT Developer🌟- Data science🌟- IBM Certified Data scientist🌟- Machine Learning,AI,C,JAVA🌟- Full Stack Developer💻- Fast Learner☀️🥇🏆- Developer Program Member at GitHub - Ex Wipro - Currently Working as Java Developer in Accenture
+B.E ECE👨‍🎓- IoT Developer🌟- Data science🌟- IBM Certified Data scientist🌟- Machine Learning,AI,C,JAVA🌟- Full Stack Developer💻- Fast Learner☀️🥇🏆- Developer Program Member at GitHub - Ex Wipro - Currently Working as Application Development Associate in Accenture
 <p align="center"> <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/hello.gif" alt="hello" /> </p>
 
 <!-- Greeting -->
@@ -194,4 +194,4 @@ Type " **vigneshkumar radhakrishnan** " (without quotes) in google and **get my 
 
 
 
-<h1 align="right"> Last update : April 12, 2022 </h1>
+<h1 align="right"> Last update : June 12, 2022 </h1>
