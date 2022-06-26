@@ -193,7 +193,7 @@ Type " **vigneshkumar radhakrishnan** " (without quotes) in google and **get my 
 ## 2022 🤩🤩
 ## 2022(Ater 1.5 years of above image) - First page of Google Search contains full of my data [About 1,96,000 results (0.34 seconds)]
 <br>
-![image](https://user-images.githubusercontent.com/43966345/175808945-96facf0f-ae97-43f4-9961-18b80b837fd2.png)
+<p align="center"> <img src="https://user-images.githubusercontent.com/43966345/175808945-96facf0f-ae97-43f4-9961-18b80b837fd2.png"  alt="google search result of vigneshkumar radhakrishnan" /> </p>
 <br>
 
 
