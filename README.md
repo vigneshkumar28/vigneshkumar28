@@ -2,7 +2,16 @@
 
 # HeadLine
 
-M.E Communication System - M.E CS & B.E ECE(9.28 out of 10 CGPA) 👨‍🎓- IoT Developer🌟- Data science🌟- IBM Certified Data scientist🌟- Machine Learning,AI,C,JAVA🌟- Full Stack Developer💻- Fast Learner☀️🥇🏆- Developer Program Member at GitHub - Ex Wipro - <b> Currently Working as Application Development Analyst in Accenture & POD lead of 6 members team, Worked with Product managers and clients in North American and European regions almost 39+ different countries </b>
+Currently Working as Application Development Analyst(Software Developer) in Accenture & POD lead of 6 members team, Worked with Product managers and clients in North American and European regions almost 39+ different countries. Appian Certified Developer. Developer Program Member at GitHub -> IBM Certified Data scientist🌟-> Machine Learning,AI,C,JAVA🌟- Full Stack Developer💻 & Ex Wipro. IoT Developer🌟-> Data science🌟-> Fast Learner☀️🥇🏆
+
+
+<!--Education -->
+
+# Education
+<br>
+✔ M.E Communication System -> M.E CS (9.14 out of 10 CGPA)👨‍🎓
+<br>
+✔ B.E Electronics and Communications Engineering -> B.E ECE (9.28 out of 10 CGPA)👨‍🎓
 
 <p align="center"> <img src="https://github.com/vigneshkumar28/vigneshkumar28/blob/main/hello.gif" alt="hello" /> </p>
 
@@ -202,4 +211,4 @@ Type " **vigneshkumar radhakrishnan** " (without quotes) in google and **get my 
 
 
 
-<h1 align="right"> Last update : October 6, 2022 </h1>
+<h1 align="right"> Last update : July 27, 2023 </h1>
