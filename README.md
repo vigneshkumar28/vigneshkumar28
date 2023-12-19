@@ -9,7 +9,7 @@ Currently Working as Application Development Analyst(Software Developer) in Acce
 
 # Education
 <br>
-✔ M.E Communication System -> M.E CS (9.14 out of 10 CGPA)👨‍🎓
+✔ M.E Communication System -> M.E CS (9.03 out of 10 CGPA)👨‍🎓
 <br>
 ✔ B.E Electronics and Communications Engineering -> B.E ECE (9.28 out of 10 CGPA)👨‍🎓
 
