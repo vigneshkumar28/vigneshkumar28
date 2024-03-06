@@ -2,7 +2,7 @@
 
 # HeadLine
 
-Currently Working as Application Development Analyst(Software Developer) in Accenture & POD lead of 6 members team, Worked with Product managers and clients in North American and European regions almost 39+ different countries. Appian Certified Developer. Developer Program Member at GitHub -> IBM Certified Data scientist🌟-> Machine Learning,AI,C,JAVA🌟- Full Stack Developer💻 & Ex Wipro. IoT Developer🌟-> Data science🌟-> Fast Learner☀️🥇🏆
+Currently Working as Senior Software Engineer at Coforge & previously worked as Application Development Analyst(Software Engineer) at Accenture & POD lead of 6 members team, Worked with Product managers and clients in North American and European regions almost 39+ different countries. Appian Certified Developer. Developer Program Member at GitHub -> IBM Certified Data scientist🌟-> Machine Learning,AI,C,JAVA🌟- Full Stack Developer💻 & Ex Wipro. IoT Developer🌟-> Data science🌟-> Fast Learner☀️🥇🏆
 
 
 <!--Education -->
@@ -23,6 +23,8 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 
 ## 🌱 **My Coding Profiles :**
 
+✔ LeetCode(310+ problems solved): https://leetcode.com/Vigneshkumar_Radhakrishnan/
+
 ✔ HackerRank (12,000+ points) : https://www.hackerrank.com/VIGNESHKUMAR_R
 
 ✔ GeeksForGeeks ( GFG ) : https://auth.geeksforgeeks.org/user/vigneshkumarponnamaravathy/profile
@@ -31,7 +33,7 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 
 ⚡Feel free to contact me :  vigneshkumarponnamaravathy@gmail.com (email id)📩📧
 
-⚡Salesforce profile👨‍🎓: https://trailblazer.me/id/vigneshkumar
+⚡Salesforce profile👨‍🎓: https://www.salesforce.com/trailblazer/vigneshkumar
 
 ⚡GitHub profile👨‍🎓: https://github.com/vigneshkumar28
 
@@ -42,15 +44,15 @@ I'm Vigneshkumar Radhakrishnan! I'm **looking for challenging role and completed
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-VigneshkumarR-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshkumar-r)
 [![Gmail](https://img.shields.io/badge/-vigneshkumarponnamaravathy-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vigneshkumarponnamaravathy@gmail.com)
-[![Salesforce Trailhead profile](https://img.shields.io/badge/-Salesforce_Trailhead_profile-white?style=flat&logo=Salesforce&logoColor=blue)](https://trailblazer.me/id/vigneshkumar) 
+[![Salesforce Trailhead profile](https://img.shields.io/badge/-Salesforce_Trailhead_profile-white?style=flat&logo=Salesforce&logoColor=blue)](https://www.salesforce.com/trailblazer/vigneshkumar) 
 
 - 🌱 I’m currently learning advance AI, ML, Java, IoT and Full Stack Development
 - 👯 I’m looking to collaborate on improving knowledge and skills
 - 🤔 I’m looking for jobs with any roles and any domains
 - 💬 Ask me about Anything
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/vigneshkumar-r-870179179)
+- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/vigneshkumar-r)
 - 😄 Strength: Active learner and good in time management
-- ⚡ Weakness: Mien
+- ⚡ Weakness: Work cotinously independent of work hours
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=vigneshkumar28&style=flat)
